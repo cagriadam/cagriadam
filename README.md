@@ -46,6 +46,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Makam Detector](https://github.com/cagriadam/makam-detector)** · [live](https://cagriadam.github.io/makam-detector/) | Play or hum a melody and it recognises the Turkish makam (Hicaz, Rast, Uşşak…) in real time, on the 53-koma system that Western tuners can't hear. | JavaScript · Web Audio · YIN |
 | **[Akora](https://github.com/cagriadam/akora)** | A full music-instrument e-commerce store: 88 products, 9 categories, brand filters, product comparison, Turkish checkout and account pages, shipping rules. | PHP · WordPress · WooCommerce · MySQL |
 
 *More projects are on the way. New ones land here regularly.*
@@ -78,6 +79,7 @@
 
 | Proje | Ne yapıyor | Teknoloji |
 |---|---|---|
+| **[Makam Dedektörü](https://github.com/cagriadam/makam-detector)** · [canlı](https://cagriadam.github.io/makam-detector/) | Bir melodi çal ya da mırıldan; Türk müziği makamını (Hicaz, Rast, Uşşak…) gerçek zamanlı tanır. Batı usulü akort aletlerinin duyamadığı 53 komalık sistemle çalışır. | JavaScript · Web Audio · YIN |
 | **[Akora](https://github.com/cagriadam/akora)** | Eksiksiz bir müzik enstrümanı e-ticaret sitesi: 88 ürün, 9 kategori, marka filtreleri, ürün karşılaştırma, Türkçe ödeme ve hesap sayfaları, kargo kuralları. | PHP · WordPress · WooCommerce · MySQL |
 
 *Yeni projeler yolda; buraya düzenli olarak ekleniyor.*
