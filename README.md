@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="#-english">English</a> · <a href="#-türkçe">Türkçe</a>
+  <a href="#english">English</a> · <a href="#türkçe">Türkçe</a>
 </p>
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### About me
 - 🎓 Studying **Computer Programming** at **Dokuz Eylül University**.
@@ -52,7 +52,7 @@
 
 ---
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 ### Hakkımda
 - 🎓 **Dokuz Eylül Üniversitesi**'nde **Bilgisayar Programcılığı** okuyorum.
