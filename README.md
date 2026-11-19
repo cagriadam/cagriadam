@@ -46,7 +46,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Akora** | A full music-instrument e-commerce store: 88 products, 9 categories, brand filters, product comparison, Turkish checkout and account pages, shipping rules. | PHP · WordPress · WooCommerce · MySQL |
+| **[Akora](https://github.com/cagriadam/akora)** | A full music-instrument e-commerce store: 88 products, 9 categories, brand filters, product comparison, Turkish checkout and account pages, shipping rules. | PHP · WordPress · WooCommerce · MySQL |
 
 *More projects are on the way. New ones land here regularly.*
 
@@ -78,7 +78,7 @@
 
 | Proje | Ne yapıyor | Teknoloji |
 |---|---|---|
-| **Akora** | Eksiksiz bir müzik enstrümanı e-ticaret sitesi: 88 ürün, 9 kategori, marka filtreleri, ürün karşılaştırma, Türkçe ödeme ve hesap sayfaları, kargo kuralları. | PHP · WordPress · WooCommerce · MySQL |
+| **[Akora](https://github.com/cagriadam/akora)** | Eksiksiz bir müzik enstrümanı e-ticaret sitesi: 88 ürün, 9 kategori, marka filtreleri, ürün karşılaştırma, Türkçe ödeme ve hesap sayfaları, kargo kuralları. | PHP · WordPress · WooCommerce · MySQL |
 
 *Yeni projeler yolda; buraya düzenli olarak ekleniyor.*
 
